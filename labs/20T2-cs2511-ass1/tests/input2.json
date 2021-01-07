@@ -1,0 +1,18 @@
+{ "command": "room", "venue": "X", "room": "X1s", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X1m", "size": "medium" }
+{ "command": "room", "venue": "X", "room": "X1l", "size": "large" }
+{ "command": "room", "venue": "Z", "room": "Z1l", "size": "large" }
+{ "command": "room", "venue": "Z", "room": "Z1s", "size": "small" }
+{ "command": "room", "venue": "Z", "room": "Z1m", "size": "medium" }
+{ "command": "request", "id": "UNSW meeting", "start": "2020-03-30", "end": "2020-04-10", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "Annual Meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Mattress Convention", "start": "2020-03-25", "end": "2020-04-29", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Dance meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "Z" }
+{ "command": "change", "id": "Dance meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "UNSW Convention", "start": "2020-03-22", "end": "2020-03-23", "small": 3, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "X" }
+{ "command": "cancel", "id": "Mattress Convention" }
+{ "command": "request", "id": "UNSW Convention New", "start": "2020-03-22", "end": "2020-03-23", "small": 3, "medium": 0, "large": 1 }
+{ "command": "cancel", "id": "UNSW Convention" }
+{ "command": "request", "id": "UNSW Convention New", "start": "2020-03-22", "end": "2020-03-23", "small": 1, "medium": 0, "large": 1 }

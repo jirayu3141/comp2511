@@ -1,0 +1,15 @@
+{ "command": "room", "venue": "A", "room": "as1", "size": "small" }
+{ "command": "room", "venue": "A", "room": "al", "size": "large" }
+{ "command": "room", "venue": "A", "room": "as2", "size": "small" }
+{ "command": "room", "venue": "B", "room": "bm", "size": "medium" }
+{ "command": "room", "venue": "B", "room": "bs", "size": "small" }
+{ "command": "room", "venue": "C", "room": "cl", "size": "large" }
+{ "command": "request", "id": "book as1, as2", "start": "2020-03-25", "end": "2020-03-26", "small": 2, "medium": 0, "large": 0 }
+{ "command": "request", "id": "book al", "start": "2020-03-24", "end": "2020-03-27", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "book cl", "start": "2020-03-26", "end": "2020-03-26", "small": 0, "medium": 0, "large": 1 }
+{ "command": "change", "id": "book al", "start": "2020-03-27", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "book new", "start": "2020-03-25", "end": "2020-03-26" , "small": 1, "medium": 0, "large": 0 }
+{ "command": "cancel", "id": "book as1, as2" }
+{ "command": "request", "id": "D", "start": "2020-03-30", "end": "2020-03-30", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "D", "start": "2020-03-28", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "list", "venue": "A" }

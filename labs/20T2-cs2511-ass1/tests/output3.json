@@ -1,0 +1,276 @@
+{
+  "venue": "X",
+  "rooms": [
+    "X1",
+    "X2"
+  ],
+  "status": "success"
+}
+{
+  "venue": "X",
+  "rooms": ["X1"],
+  "status": "success"
+}
+{
+  "venue": "X",
+  "rooms": [
+    "X3",
+    "X4",
+    "X5",
+    "X6"
+  ],
+  "status": "success"
+}
+{
+  "venue": "X",
+  "rooms": [
+    "X3",
+    "X4",
+    "X5"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Y",
+  "rooms": [
+    "y1",
+    "y2"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      },
+      {
+        "start": "2020-03-30",
+        "end": "2020-04-10",
+        "id": "UNSW Party"
+      }
+    ],
+    "room": "X1"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-30",
+      "end": "2020-04-10",
+      "id": "UNSW Party"
+    }],
+    "room": "X2"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X3"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X4"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X5"
+  },
+  {
+    "reservations": [],
+    "room": "X6"
+  }
+]
+[
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-03-29",
+      "id": "Dance Party"
+    }],
+    "room": "y1"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-03-29",
+      "id": "Dance Party"
+    }],
+    "room": "y2"
+  },
+  {
+    "reservations": [],
+    "room": "y3"
+  }
+]
+{
+  "venue": "X",
+  "rooms": [
+    "X1",
+    "X2",
+    "X6"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      },
+      {
+        "start": "2020-03-30",
+        "end": "2020-04-10",
+        "id": "UNSW Party"
+      },
+      {
+        "start": "2020-04-11",
+        "end": "2020-04-30",
+        "id": "UNSW Convention"
+      }
+    ],
+    "room": "X1"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-03-30",
+        "end": "2020-04-10",
+        "id": "UNSW Party"
+      },
+      {
+        "start": "2020-04-11",
+        "end": "2020-04-30",
+        "id": "UNSW Convention"
+      }
+    ],
+    "room": "X2"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X3"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X4"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X5"
+  },
+  {
+    "reservations": [{
+      "start": "2020-04-11",
+      "end": "2020-04-30",
+      "id": "UNSW Convention"
+    }],
+    "room": "X6"
+  }
+]
+{
+  "venue": "Y",
+  "rooms": [
+    "y1",
+    "y3"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Dance Party"
+      },
+      {
+        "start": "2020-04-11",
+        "end": "2020-04-30",
+        "id": "UNSW Convention"
+      }
+    ],
+    "room": "y1"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-03-29",
+      "id": "Dance Party"
+    }],
+    "room": "y2"
+  },
+  {
+    "reservations": [{
+      "start": "2020-04-11",
+      "end": "2020-04-30",
+      "id": "UNSW Convention"
+    }],
+    "room": "y3"
+  }
+]
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      },
+      {
+        "start": "2020-03-30",
+        "end": "2020-04-10",
+        "id": "UNSW Party"
+      }
+    ],
+    "room": "X1"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-30",
+      "end": "2020-04-10",
+      "id": "UNSW Party"
+    }],
+    "room": "X2"
+  },
+  {
+    "reservations": [],
+    "room": "X3"
+  },
+  {
+    "reservations": [],
+    "room": "X4"
+  },
+  {
+    "reservations": [],
+    "room": "X5"
+  },
+  {
+    "reservations": [],
+    "room": "X6"
+  }
+]

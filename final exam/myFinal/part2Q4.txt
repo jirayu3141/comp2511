@@ -1,0 +1,6 @@
+Factory pattern deal with the problem of creating objects without having to specify 
+the exact class of the object that will be created, whereas, abstract Factory specializes in 
+creating families of related objects. Many designs start by using Factory Method (less complicated
+and more customizable via subclasses) and evolve toward Abstract Factory. 
+Factory method doesn't require the use of abstract class whereas it is required in
+abstract factory method.

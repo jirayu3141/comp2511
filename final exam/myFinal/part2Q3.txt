@@ -1,0 +1,5 @@
+ Decorator is a structural design pattern that lets you attach new behaviors to objects
+by placing these objects inside special wrapper objects that contain the behaviors, whereas, 
+builder is a creational design pattern that lets you construct complex objects step by step. 
+Decorator lets you add funcitonlity later whereas builder lets you add fucntionality
+at creation time.

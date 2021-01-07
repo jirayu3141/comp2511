@@ -1,0 +1,23 @@
+{ "command": "room", "venue": "X", "room": "X1", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X2", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X3", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X4", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X5", "size": "small" }
+{ "command": "room", "venue": "X", "room": "X6", "size": "large" }
+{ "command": "room", "venue": "Y", "room": "y1", "size": "small" }
+{ "command": "room", "venue": "Y", "room": "y2", "size": "small" }
+{ "command": "room", "venue": "Y", "room": "y3", "size": "medium" }
+{ "command": "request", "id": "UNSW Party", "start": "2020-03-30", "end": "2020-04-10", "small": 2, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Annual Meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Mattress Convention", "start": "2020-03-25", "end": "2020-04-29", "small": 3, "medium": 0, "large": 1 }
+{ "command": "change", "id": "Mattress Convention", "start": "2020-03-25", "end": "2020-04-29", "small": 3, "medium": 0, "large": 0 }
+{ "command": "request", "id": "Dance Party", "start": "2020-03-25", "end": "2020-03-29", "small": 2, "medium": 0, "large": 0 }
+{ "command": "request", "id": "UNSW Convention", "start": "2020-04-11", "end": "2020-04-30", "small": 3, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "X" }
+{ "command": "list", "venue": "Y" }
+{ "command": "request", "id": "UNSW Convention", "start": "2020-04-11", "end": "2020-04-30", "small": 2, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "X" }
+{ "command": "change", "id": "UNSW Convention", "start": "2020-04-11", "end": "2020-04-30", "small": 1, "medium": 1, "large": 0 }
+{ "command": "list", "venue": "Y" }
+{ "command": "cancel", "id": "Mattress Convention" }
+{ "command": "list", "venue": "X" }

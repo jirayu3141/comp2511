@@ -1,0 +1,79 @@
+{
+  "venue": "X",
+  "rooms": ["X1m"],
+  "status": "success"
+}
+{
+  "venue": "X",
+  "rooms": ["X1s"],
+  "status": "success"
+}
+{
+  "venue": "X",
+  "rooms": ["X1l"],
+  "status": "success"
+}
+{
+  "venue": "Z",
+  "rooms": ["Z1s"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [],
+    "room": "Z1l"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-03-29",
+      "id": "Dance meeting"
+    }],
+    "room": "Z1s"
+  },
+  {
+    "reservations": [],
+    "room": "Z1m"
+  }
+]
+{
+  "venue": "Z",
+  "rooms": ["Z1s"],
+  "status": "success"
+}
+{"status": "rejected"}
+[
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-03-29",
+      "id": "Annual Meeting"
+    }],
+    "room": "X1s"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-30",
+      "end": "2020-04-10",
+      "id": "UNSW meeting"
+    }],
+    "room": "X1m"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-25",
+      "end": "2020-04-29",
+      "id": "Mattress Convention"
+    }],
+    "room": "X1l"
+  }
+]
+{"status": "rejected"}
+{
+  "venue": "X",
+  "rooms": [
+    "X1s",
+    "X1l"
+  ],
+  "status": "success"
+}

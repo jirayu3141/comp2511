@@ -1,0 +1,20 @@
+{ "command": "room", "venue": "A", "room": "A1", "size": "small" }
+{ "command": "room", "venue": "A", "room": "A2", "size": "small" }
+{ "command": "room", "venue": "A", "room": "A3", "size": "small" }
+{ "command": "room", "venue": "A", "room": "A4", "size": "medium" }
+{ "command": "room", "venue": "A", "room": "A5", "size": "medium" }
+{ "command": "room", "venue": "A", "room": "A6", "size": "large" }
+{ "command": "room", "venue": "B", "room": "B1", "size": "small" }
+{ "command": "room", "venue": "B", "room": "B2", "size": "large" }
+{ "command": "room", "venue": "B", "room": "B3", "size": "large" }
+{ "command": "request", "id": "Annual Meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 1, "medium": 2, "large": 1 }
+{ "command": "request", "id": "Mattress Convention", "start": "2020-03-24", "end": "2020-03-24", "small": 3, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Dance PartB", "start": "2020-03-21", "end": "2020-03-24", "small": 1, "medium": 1, "large": 0 }
+{ "command": "room", "venue": "B", "room": "B4", "size": "medium" }
+{ "command": "request", "id": "Dance PartB", "start": "2020-03-21", "end": "2020-03-24", "small": 1, "medium": 1, "large": 1 }
+{ "command": "change", "id": "Annual Meeting", "start": "2020-03-25", "end": "2020-03-29", "small": 3, "medium": 0, "large": 1 }
+{ "command": "request", "id": "Web Convention", "start": "2020-03-29", "end": "2020-04-03", "small": 0, "medium": 2, "large": 0 }
+{ "command": "list", "venue": "A" }
+{ "command": "request", "id": "ID PartB", "start": "2020-03-22", "end": "2020-03-30", "small": 0, "medium": 0, "large": 1 }
+{ "command": "list", "venue": "B" }
+{ "command": "change", "id": "ID PartB", "start": "2020-03-10", "end": "2020-03-20", "small": 0, "medium": 1, "large": 2 }

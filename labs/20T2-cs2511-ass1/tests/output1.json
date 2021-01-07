@@ -1,0 +1,182 @@
+{
+  "venue": "A",
+  "rooms": [
+    "A1",
+    "A4",
+    "A5",
+    "A6"
+  ],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A6"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "B",
+  "rooms": [
+    "B1",
+    "B2",
+    "B4"
+  ],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": [
+    "A1",
+    "A2",
+    "A3",
+    "A6"
+  ],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": [
+    "A4",
+    "A5"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-24",
+        "end": "2020-03-24",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "A1"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-03-24",
+        "end": "2020-03-24",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "A2"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-03-24",
+        "end": "2020-03-24",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "A3"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-03-24",
+        "end": "2020-03-24",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2020-03-29",
+        "end": "2020-04-03",
+        "id": "Web Convention"
+      }
+    ],
+    "room": "A4"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-29",
+      "end": "2020-04-03",
+      "id": "Web Convention"
+    }],
+    "room": "A5"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2020-03-24",
+        "end": "2020-03-24",
+        "id": "Mattress Convention"
+      },
+      {
+        "start": "2020-03-25",
+        "end": "2020-03-29",
+        "id": "Annual Meeting"
+      }
+    ],
+    "room": "A6"
+  }
+]
+{
+  "venue": "B",
+  "rooms": ["B3"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [{
+      "start": "2020-03-21",
+      "end": "2020-03-24",
+      "id": "Dance PartB"
+    }],
+    "room": "B1"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-21",
+      "end": "2020-03-24",
+      "id": "Dance PartB"
+    }],
+    "room": "B2"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-22",
+      "end": "2020-03-30",
+      "id": "ID PartB"
+    }],
+    "room": "B3"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-21",
+      "end": "2020-03-24",
+      "id": "Dance PartB"
+    }],
+    "room": "B4"
+  }
+]
+{
+  "venue": "B",
+  "rooms": [
+    "B2",
+    "B3",
+    "B4"
+  ],
+  "status": "success"
+}

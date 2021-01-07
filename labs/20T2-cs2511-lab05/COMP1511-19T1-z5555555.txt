@@ -1,0 +1,7 @@
+28-07-2020 10:38:44	ComponentSum [name=Total Mark, score=0, maxScore=0]
+28-07-2020 10:38:45	ComponentSum [name=Prac Mark, score=0, maxScore=0]
+28-07-2020 10:38:45	MarkLeaf [name=Assignment1, score=50, maxScore=100]
+28-07-2020 10:38:45	ComponentAvg [name=Assignment2, score=0, maxScore=0]
+28-07-2020 10:38:45	MarkLeaf [name=Milestone1, score=10, maxScore=20]
+28-07-2020 10:38:45	MarkLeaf [name=Milestone2, score=20, maxScore=40]
+28-07-2020 10:38:45	MarkLeaf [name=Exam, score=70, maxScore=100]

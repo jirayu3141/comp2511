@@ -1,0 +1,3 @@
+Observer Pattern. There are obervers (ie heart rate of a patient) and 
+subscribers (ie nurses and doctor) and since changes in heart rate need to notify
+associated subscribers, oberver pattern is the most suitable. 

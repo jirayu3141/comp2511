@@ -1,0 +1,3 @@
+Adapter Pattern. An adapter wraps one of the objects to hide the complexity of 
+conversion happening behind the scenes. Since we have no access to the source 
+and and adaper patten only try to make it competable, it is the most suitable pattern.

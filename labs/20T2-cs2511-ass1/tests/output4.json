@@ -1,0 +1,67 @@
+{
+  "venue": "A",
+  "rooms": [
+    "as1",
+    "as2"
+  ],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": ["al"],
+  "status": "success"
+}
+{
+  "venue": "C",
+  "rooms": ["cl"],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": ["as1"],
+  "status": "success"
+}
+{
+  "venue": "B",
+  "rooms": ["bs"],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": ["as1"],
+  "status": "success"
+}
+{
+  "venue": "A",
+  "rooms": ["as2"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2020-03-27",
+        "end": "2020-03-29",
+        "id": "book al"
+      },
+      {
+        "start": "2020-03-30",
+        "end": "2020-03-30",
+        "id": "D"
+      }
+    ],
+    "room": "as1"
+  },
+  {
+    "reservations": [],
+    "room": "al"
+  },
+  {
+    "reservations": [{
+      "start": "2020-03-28",
+      "end": "2020-03-29",
+      "id": "D"
+    }],
+    "room": "as2"
+  }
+]
